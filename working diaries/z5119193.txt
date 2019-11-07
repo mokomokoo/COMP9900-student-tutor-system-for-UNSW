@@ -1,0 +1,26 @@
+Week 2
+Formed the group and discussed the project chosen.
+
+Week 3
+Analyzed the requirement of the project with team members. Wrote the epic part of the proposal.
+
+Week 4
+Learned how to crawl data from website and finished the crawler part for the timetable.
+
+Week 5
+Updated the crawler part to make it can crawl handbook.
+
+Week 6
+Fixed some bugs, such as giving a None response to backend when the given course is not available.Connect the crawler parameters and returned result with backend part.
+
+Week 7
+Tried to implement some machine learning algorithms on the given data set. 
+
+Week 8
+Testing the whole project, found and fixed several bugs with team members.
+
+Week 9
+Still worked on fixing bugs and prepared the final demo.
+
+Week 10
+Fixed some bugs to improve system stability and finished the final report.

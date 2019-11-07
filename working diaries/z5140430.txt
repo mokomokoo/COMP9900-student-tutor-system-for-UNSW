@@ -1,0 +1,34 @@
+Week 1
+
+Group formed. Find new team mate because one of our team mates drop the course on Thurday. Read the description of the projects, and then find our interesting projects. I also read some articles about some of the projects in order to choose our project.
+
+Week 2
+
+Select project 1, chatbot, which is quite interesting. I learn some techiques of making a chabot using python, and I know the framework called Dialogflow. Start to think about the proposl at the end of the week
+
+Week 3
+finish the proposal, and separate our tasks. make the time schedule for the task of each person
+
+Week 4
+learn Dialogflow, start to do some simple instances, like make an order or reservation
+
+Week 5
+create intents for chatbot, now it can answer some basic questions. Part 1 for handbook questions is finished. 
+
+Week 6
+create intents for knowledge-based questions, and start to connect with the knwoledge database. Finish my part of work for part 2 knowledge base questions
+
+Week 7
+improve the chatbot by add context features, fix multi-user share same conetxt problems
+
+Week 7
+write detect intent for web API to use, connect with the frontend. And fix some bugs when connecting 
+
+week8
+connect all the parts together and fix all the bugs comming out when connecting, such as database problems. start to help to do admin systems
+
+week 9
+add new features of slask
+
+week 10
+finish report, demo

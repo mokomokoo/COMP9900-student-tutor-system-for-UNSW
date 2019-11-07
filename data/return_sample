@@ -1,0 +1,14 @@
+return {
+        "Overview": "Program design and implementation in a high level language, with procedural and object oriented constructs and some functional features. Fundamental programming techniques, data structures and algorithms. Debugging and testing. Simulation. Applications in different areas, including those involving graphical user interfaces and animations.\n",
+        "Unit of Credit": "6 Units of Credit\n",
+        "Prerequisite": "None\n",
+        "Study Level": "Postgraduate\n",
+        "Faculty": "Faculty of Engineering\n",
+        "School": "School of Computer Science and Engineering\n",
+        "Offering Terms": "Term 1, Term 2, Term 3\n",
+        "Lecturer": "Dr EA Martin\n",
+        "Census_Date": "30-JUN-2019\n\",
+        "Status": "Open\n",
+        "Enrols": "0/33\n",
+        "Timetable": "Click http://timetable.unsw.edu.au/2019/COMP9021.html for more details.\n"
+}

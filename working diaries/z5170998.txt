@@ -1,0 +1,37 @@
+Week 2
+- Group formed. 
+- Join the AiFriend group.
+- Choose and discuss the features of project.
+
+Week 3
+- Draw Flow chat,architecture graph.
+- Write the proposal of the project.
+
+Week 4
+- Draw Prototype figure of our system.
+- Divide function into model and design API in backend
+
+Week 5
+- Design and implement database store user information.
+- Design and implement signup and signin pages in frontend.
+- implement signin and signup api in backend. 
+
+Week 6
+- Design and implement chat page in frontend.
+- Design and implement chat api in backend.
+
+Week 7
+- Design and implement history page in frontend.
+- Design and implement history api in backend.
+
+Week 8
+- Connect frontend and backend with ajax.
+- Add question modification part in history page in frontend.
+- Design and implement question modification part api in backend.
+
+Week 9
+- Fix bug in posting data from frontend to backend and prepare for the demo.
+
+Week 10
+- Wrote report of my part.
+- Fixed the bugs after demo.

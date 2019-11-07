@@ -1,0 +1,36 @@
+Week 2
+- Group formed. 
+- Joined the AiFriend group.
+- Choose and discussed the features of project.
+
+Week 3
+- Wrote the background of proposal of the project.
+
+Week 4
+- Collect the information about how to use AWS EC2.
+- Set up an AWS EC2 instance.
+
+Week 5
+- Installed mongodb in the AWS EC2.
+- Edited the configuration of mongodb in order to make it can be connected with remotely.
+- Configured the EC2 instance to receive any traffic through port 27017 outsider.
+
+Week 6
+- Knwoledge-based database design.
+- Discussed the method that frontend and backend needs.
+
+Week 7
+- Wrote the CRUD and get intent list method of mongodb for frontend and backend. 
+
+Week 8
+- Connect database with frontend and backend.
+- Stored some data in the database.
+
+Week 9
+- Fixed bugs with all the group members and prepare for the demo.
+
+Week 10
+- Wrote report of my part.
+- Fixed the bugs after demo.
+- Add CRUD method for the admin user.
+
