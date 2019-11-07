@@ -1,10 +1,6 @@
 ## Environment settings
 ### 1. change directory to the root directory of the project
 
-```bash
-cd jarvis
-```
-
 ### 2. recommend to use virtual environment for this chatbot
 
 ```bash
