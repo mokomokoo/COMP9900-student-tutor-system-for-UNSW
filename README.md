@@ -1,4 +1,19 @@
+# COMP9900 group project
+
+## X-o-Bot: A Generic Dialog Framework for Conversational Agents
+
+This project focuses on the creation of a generic and modular architecture for conversational
+agents which is based on three core components:
+
+1. A knowledge extraction/building module (which includes search, ingestion and knowledge representation)
+2. A dialog builder (which can leverage on existing APIs and theories about interaction)
+
+This project is 
+
+* A student-tutor support system (extracting all content from a specific course and answering key questions)
+
 ## Environment settings
+
 ### 1. change directory to the root directory of the project
 
 ### 2. recommend to use virtual environment for this chatbot
